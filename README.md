@@ -7,7 +7,7 @@
 ## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jenifer-mathias/)](https://www.linkedin.com/in/jenifer-mathias/)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://mail.google.com/jenifer.mathias.santos@gmail.com)](https://mail.google.com/mail/jenifer.mathias.santos@gmail.com)
+<a href = "mailto:contato@jenifer.mathias.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Core technologies and tools 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)

@@ -2,7 +2,7 @@
 
 ## About Me 
 - 📱 I work with the development of applications for android devices;
-- 📚 Computer Science at Mackenzie Presbyterian University.
+- 📚 Studying Computer Science at Mackenzie Presbyterian University.
 
 ## How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jenifer-mathias/)](https://www.linkedin.com/in/jenifer-mathias/)

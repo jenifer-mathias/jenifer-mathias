@@ -12,9 +12,12 @@
 
 ## Core technologies and tools 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+
+## Other knowledges (I used it at some point in my career)
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -26,13 +29,11 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![Mac Os Badge](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 
 ![Azure Badge](https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-## Other knowledges (I used it at some point in my career)
 ![Google Cloud Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+![Mac Os Badge](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
@@ -56,7 +57,6 @@
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![VsCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![MySql Badge](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Apache Maven Badge](https://img.shields.io/badge/apache_maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)

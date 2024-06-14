@@ -2,7 +2,7 @@
 
 ## About Me 
 - 📱 I work with the development of applications for android devices;
-- 📚 Studying Computer Science at Mackenzie Presbyterian University;
+- 📚 Graduated in Computer Science from Mackenzie Presbyterian University;
 - 📖 I like to read and learn new things. 
 
 ## How to reach me
